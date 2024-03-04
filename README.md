@@ -26,13 +26,13 @@ Importance of Finance Data Analysis: Benchmarking against industry peers, and hi
 Aligning financial planning with strategic objectives and instilling confidence in the organization's financial outlook.
 
 # Technical & Soft Skills:
-Proficient in ETL methodology (Extract, Transform, Load).
-Skillful in creating date tables using Power Query.
-Capable of deriving fiscal months and quarters.
-Establishing data model relationships with Power Pivot.
+- Proficient in ETL methodology (Extract, Transform, Load).
+- Skillful in creating date tables using Power Query.
+- Capable of deriving fiscal months and quarters.
+- Establishing data model relationships with Power Pivot.
 
 # Soft Skills:
-Comprehensive understanding of Sales & Finance Reports.
-Designing user-centric reports with empathy.
-Optimizing report generation through meticulous fine-tuning.
-Developing a systematic approach to creating report-building plans.
+- Comprehensive understanding of Sales & Finance Reports.
+- Designing user-centric reports with empathy.
+- Optimizing report generation through meticulous fine-tuning.
+- Developing a systematic approach to creating report-building plans.
