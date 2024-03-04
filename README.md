@@ -3,7 +3,8 @@
 # Sales Report:
 
 ## Project Goals:
-1. Customer Performance Report: Created a detailed report to assess customer performance.
+1. Customer Performance Report: Created a detailed [customer performance Report](https://github.com/manojsonawane133/Sales_And_Finance_Analytics_Of_AtliQ_Hardwares/blob/main/customer_performance.pdf)
+ to assess customer performance.
 2. Market Performance Comparison: Conducted a thorough analysis comparing market performance against sales targets.
 
 Sales Analytics Purpose: Empowering businesses to monitor, evaluate, and enhance their sales activities and outcomes.
