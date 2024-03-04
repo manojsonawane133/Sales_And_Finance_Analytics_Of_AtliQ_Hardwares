@@ -10,7 +10,8 @@ Sales Analytics Purpose: Empowering businesses to monitor, evaluate, and enhance
 
 Importance of Sales Data Analysis: Unveiling sales patterns, tracking essential performance indicators, and driving informed decisions.
 
-## Reports' Role: Determining effective customer discounts, facilitating negotiations, and identifying expansion opportunities in potential markets.
+## Reports' Role: 
+Determining effective customer discounts, facilitating negotiations, and identifying expansion opportunities in potential markets.
 
 # Finance Report:
 
@@ -19,9 +20,10 @@ Importance of Sales Data Analysis: Unveiling sales patterns, tracking essential 
 2. P&L Reports by Markets: Generated P&L reports categorized by markets.
 3. Finance Analytics Purpose: Evaluating financial performance, aiding decision-making, and fostering stakeholder communication.
 
-Importance of Finance Data Analysis: Benchmarking against industry peers, historical periods, and establishing the foundation for budgeting and forecasting.
+Importance of Finance Data Analysis: Benchmarking against industry peers, and historical periods, and establishing the foundation for budgeting and forecasting.
 
-## Reports' Role: Aligning financial planning with strategic objectives and instilling confidence in the organization's financial outlook.
+## Reports' Role: 
+Aligning financial planning with strategic objectives and instilling confidence in the organization's financial outlook.
 
 # Technical & Soft Skills:
 Proficient in ETL methodology (Extract, Transform, Load).
